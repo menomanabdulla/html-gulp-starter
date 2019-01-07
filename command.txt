@@ -1,0 +1,5 @@
+//gulp globally install
+npm install gulpjs/gulp-cli -g
+
+//gulp locally install
+npm install 'gulpjs/gulp.git#4.0' --save-dev
