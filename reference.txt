@@ -1,0 +1,4 @@
+1. https://gulpjs.com/
+2. https://browsersync.io/docs/gulp
+3. https://github.com/google/web-starter-kit/blob/master/gulpfile.babel.js
+4. https://www.youtube.com/watch?v=LYbt50dhTko
